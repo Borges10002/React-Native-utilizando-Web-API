@@ -1,0 +1,6 @@
+configurando o expo
+https://www.alura.com.br/artigos/como-instalar-configurar-expo-do-react-native?utm_source=gnarus&utm_medium=timeline
+
+start api do json
+json-server --watch db.json
+json-server --watch --host 192.168.1.104  db.json
